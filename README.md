@@ -3,7 +3,7 @@
 This project was elected as a presenting poster in the 2018 YinzOR Student Conference. link: https://2018yinzorstudentconference.wordpress.com/poster-session/
 
 ## Introduction:
-An important part of an opinion is its sentiment. To predict these sentiments, we use a Yelp dataset to train an Opinion Mining model.We explore two approaches for creating features: uni-gram bag of words model and pre-trained embeddings. The bag of words model is based on the count of lemmatized words in each opinion. 
+An important part of an opinion is its sentiment. To predict these sentiments, we use a Yelp dataset to train an Opinion Mining model. We explore two approaches for creating features: uni-gram bag of words model and pre-trained embeddings. The bag of words model is based on the count of lemmatized words in each opinion. 
 
 The pre-trained embeddings are built using the GloVe model over 2B tweets. Both models extract semantic information from the database. Stars are assigned by users to business reviews.
 
